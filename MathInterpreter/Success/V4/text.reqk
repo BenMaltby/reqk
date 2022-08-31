@@ -1,0 +1,5 @@
+asn a; 2
+asn b; -3
+asn c; 2.5
+
+a + b + c
